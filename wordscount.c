@@ -2,7 +2,7 @@
 #include <string.h>
 #include <dirent.h>
 #include <stdlib.h>
-#include "/usr/include/mpi/mpi.h"
+#include "mpi.h"
 
 #define MAX_SIZE_PAROLA 100
 #define SIZEBUFFER 100000000
