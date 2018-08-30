@@ -33,7 +33,7 @@ Per affrontare il problema sono state prese le seguenti scelte progettuali:
 ## Benchmark
 Per il calcolo del tempo di esecuzione è stata utilizzata la funzione `MPI_Wtime()` offerta da MPI.
 
-### Strong scalability
+### Strong scaling
 Nella seguente tabella vengono riportati i risultati del test della **strong scaling efficiency**.
 
 |Processi MPI| Tempo | Percentuale |
