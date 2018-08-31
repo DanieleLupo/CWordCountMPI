@@ -2,7 +2,7 @@
 Il programma è realizzato in C utilizzando MPI, sfruttando la programmazione parallela, per contare le parole all'interno di più file. Le parole all'interno del file possono non avere una formattazione ben definita ma, per semplicità, le parola all'interno dei file (archivio allegato nella repository) utilizzati per la fase di testing sono disposte una per ogni riga.
 
 ## Esecuzione
-Prima di eseguire il programam bisogna estrarre i file di test. Per fare ciò, posizionarsi all'interno della directory dove è presente l'archivio `files.tar` ed eseguire il seguente comando:
+Prima di eseguire il programam bisogna estrarre i file di test. Per fare ciò, <a href="https://mega.nz/#!tl1xRBoR!DsPNVKdVGzrXm1UPQ9xrSoz_e2obfsO9nAdsfZT9VBY">scaricare</a> l'archivio e posizionarsi all'interno della directory dove è presente l'archivio `files.tar` ed eseguire il seguente comando:
 
 `tar xf files.tar`
 
